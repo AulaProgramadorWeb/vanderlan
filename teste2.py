@@ -9,7 +9,7 @@ import random
 num = random.randint(1, 10)
 tentativa1 = 0
 
-while tentativa1 < 4:
+while tentativa1 < 3:
         tentativa1 = int(input("Digite um número: "))
         tentativa1 += 1
 
