@@ -1,1 +1,1 @@
-hfsajifhiadsfads
+print ("hello word!")
