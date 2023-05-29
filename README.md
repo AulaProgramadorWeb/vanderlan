@@ -1,2 +1,0 @@
-# vanderlan
-aula phyton
