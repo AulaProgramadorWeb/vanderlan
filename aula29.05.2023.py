@@ -2,7 +2,7 @@
 
 import random
 
-num1 = int(input("digite um num de 1 a 5:"))
+num1 = int(input("digite um número de sua escolha:"))
 num2 = random.randint(1,5)
 soma = num1 + num2
 
