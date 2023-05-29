@@ -1,0 +1,27 @@
+# vanderlan
+#EXE.1 AULA 1
+largura = float(input("Digite a largura do terreno: "))
+altura = float(input("Digite a altura do terreno: "))
+area_terreno = largura * altura
+print("A área do terreno é:", area_terreno)
+
+
+#exe 2
+pao = 0.50
+sonho = 2.00
+
+quantidade_pao = int(input("Quantos pães franceses você deseja comprar? "))
+quantidade_sonho = int(input("Quantos sonhos você deseja comprar? "))
+
+total_pao = quantidade_pao * pao
+total_sonho = quantidade_sonho * sonho
+valor_total = total_pao + total_sonho
+
+print("O valor total é R$ {}".format(valor_total))
+
+
+
+
+
+
+
